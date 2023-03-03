@@ -7,7 +7,7 @@
     <a href="#core">Core</a> · 
     <a href="#exercises">Exercises</a> · 
     <a href="#contributing">Contributing</a> ·
-    <a href="#license">License</a>
+    <a href="./LICENSE">License</a>
   </p>
 </div>
 
@@ -45,6 +45,3 @@ Here is a table with links to all the exercises covered in the book:
 
 ## Contributing
 This is an open project for contributions, and we appreciate all kinds of help, from new solutions to minor error corrections. If you encounter any issues, feel free to [open an issue](https://github.com/wesleydmscn/eloquent-javascript-3rd/issues/new) so we can discuss the best solution. Thank you for contributing to making this project a valuable learning tool for anyone interested in JavaScript.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
