@@ -7,7 +7,7 @@
     <a href="#core">Core</a> · 
     <a href="#exercises">Exercises</a> · 
     <a href="#contributing">Contributing</a> ·
-    <a href="#license">License</a>
+    <a href="./LICENSE">License</a>
   </p>
 </div>
 
@@ -38,13 +38,27 @@ Here is a table with links to all the topics covered in the book:
 ## Exercises
 Here is a table with links to all the exercises covered in the book:
 
-| Exercises (Column 1) | Exercises (Column 2) |
-| -------------------- | -------------------- |
-|                      |                      |
+| Program Structure                                                       | Functions | Data Structures | Higher-Order Functions |
+| ----------------------------------------------------------------------- | --------- | --------------- | ---------------------- |
+| [Looping a Triangle](exercises/program_structure/looping_a_triangle.js) |           |                 |                        |
+| [FizzBuzz](exercises/program_structure/fizzbuzz.js)                     |
+| [Chessboard](exercises/program_structure/chessboard.js)                 |
 
+| Secret Life of Objects | Project: A Robot | Bugs and Errors | Regular Expressions |
+| ---------------------- | ---------------- | --------------- | ------------------- |
+|                        |                  |                 |                     |
+
+| Modules | Asynchronous Programming | Project: A Programming Language | DOM |
+| ------- | ------------------------ | ------------------------------- | --- |
+|         |                          |                                 |     |
+
+| Handling Events | Project: A Platform Game | Drawing on Canvas | HTTP and Forms |
+| --------------- | ------------------------ | ----------------- | -------------- |
+|                 |                          |                   |                |
+
+| Project: A Robot | Project: A Pixel Art Editor |
+| ---------------- | --------------------------- |
+|                  |                             |
 
 ## Contributing
 This is an open project for contributions, and we appreciate all kinds of help, from new solutions to minor error corrections. If you encounter any issues, feel free to [open an issue](https://github.com/wesleydmscn/eloquent-javascript-3rd/issues/new) so we can discuss the best solution. Thank you for contributing to making this project a valuable learning tool for anyone interested in JavaScript.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
