@@ -38,11 +38,12 @@ Here is a table with links to all the topics covered in the book:
 ## Exercises
 Here is a table with links to all the exercises covered in the book:
 
-| Program Structure                                                       | Functions | Data Structures | Higher-Order Functions |
-| ----------------------------------------------------------------------- | --------- | --------------- | ---------------------- |
-| [Looping a Triangle](exercises/program_structure/looping_a_triangle.js) |           |                 |                        |
-| [FizzBuzz](exercises/program_structure/fizzbuzz.js)                     |
-| [Chessboard](exercises/program_structure/chessboard.js)                 |
+| Program Structure                                                       | Functions     | Data Structures    | Higher-Order Functions     |
+| ----------------------------------------------------------------------- | ------------- | ------------------ | -------------------------- |
+| [Looping a Triangle](exercises/program_structure/looping_a_triangle.js) | Minimum       | Sum of a Range     | Flattening                 |
+| [FizzBuzz](exercises/program_structure/fizzbuzz.js)                     | Recursion     | Reversing an array | Your own loop              |
+| [Chessboard](exercises/program_structure/chessboard.js)                 | Bean Counting | A list             | Everything                 |
+|                                                                         |               | Deep Comparison    | Dominant writing direction |
 
 | Secret Life of Objects | Project: A Robot | Bugs and Errors | Regular Expressions |
 | ---------------------- | ---------------- | --------------- | ------------------- |
